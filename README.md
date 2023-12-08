@@ -1,2 +1,2 @@
-# khadija
-asbullah | Nur Afny | Khadijah khairunnisa asbullah
+# asbullah | Nur Afny | Khadijah khairunnisa asbullah
+
