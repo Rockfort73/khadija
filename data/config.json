@@ -1,0 +1,17 @@
+{
+  "use_enter": true,
+  "cookie_file": "./data/cookies.txt",
+  "font_folder": "./data/font/abeezee",
+  "image_folder": "./data/images/foto-post",
+  "background_folder": "./data/images/background",
+  "foto_profile": "./data/images/foto-frofile",
+  "2fa_file": "./data/2fa.json",
+  "cover_folder": "./data/images/cover-profile",
+  "account_pettern": "(.*?)\\|\\w{6,}",
+  "account_separator": "|",
+  "add_friend_suges_limit": 5,
+  "add_friends_post_limit": 5,
+  "acc_friend_limit": 5,
+  "like_post_beranda_limit": 5,
+  "comment_post_beranda_limit": 5
+}
